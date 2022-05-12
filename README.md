@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sinwk
+- 👀 I’m interested in math and other.
+- 🌱 I’m currently learning java, Octave.
